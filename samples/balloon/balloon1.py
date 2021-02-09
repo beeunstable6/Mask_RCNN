@@ -81,7 +81,7 @@ class dogConfig(Config):
     # Skip detections with < 90% confidence
     DETECTION_MIN_CONFIDENCE = 0.9
 
-    LEARNING_RATE = 0.001
+    LEARNING_RATE = 0.0015
 
 ############################################################
 #  Dataset
